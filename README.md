@@ -77,7 +77,7 @@ Here is a breakdown of the primary directories and files within this repository:
 
 ## 💳 Credits & Acknowledgements
 
-* **Original Repository:** Based on / adapted from [Original Repo Name](https://github.com/username/repository-name) by [@username](https://github.com/username)
+* **Original Repository:** Based on / adapted from  by [@manthan89](https://github.com/manthan89-py)
 * **Dataset:** [PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
 * **Reference Guide:** [Plant Disease Detection Using CNN with PyTorch](https://medium.com/@manthan89-py/plant-disease-detection-using-convolutional-neural-networks-with-pytorch-24f79471f008) by `@manthan89-py`
 
@@ -91,10 +91,9 @@ The **Plant Disease Detection AI** demonstrates the powerful capability of Deep 
 
 ## 📬 Contact Information
 
-We welcome questions, feedback, and collaboration opportunities! Feel free to reach out through any of the channels below:
+## 📬 Contact Information
 
-* **Developer Name:** Poornashree J P
-* **Project Maintainer:** [StudentCoderr](https://github.com/StudentCoderr)
-* **Repository Link:** [GitHub - AIML-Mini-prj](https://github.com/StudentCoderr/AIML-Mini-prj)
-* **Issue Tracker:** For bugs, feature requests, or technical questions, please open a formal issue on our [GitHub Issues Page](https://github.com/StudentCoderr/AIML-Mini-prj/issues).
-* **Developer Email:** ammupoorna14@gmail.com
+* **Developer:** Poornashree J P ([@StudentCoderr](https://github.com/StudentCoderr))
+* **Repository:** [AIML-Mini-prj](https://github.com/StudentCoderr/AIML-Mini-prj)
+* **Live Demo:** [Plant-Disease-Detection-AI](https://your-live-demo-link.vercel.app)
+* **Email:** `ammupoorna14@gmail.com`
