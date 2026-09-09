@@ -73,6 +73,15 @@ Here is a breakdown of the primary directories and files within this repository:
 | **`README.md`** | Main documentation file providing an overview, setup steps, and contribution guidelines. |
 
 ---
+---
+
+## 💳 Credits & Acknowledgements
+
+* **Original Repository:** Based on / adapted from [Original Repo Name](https://github.com/username/repository-name) by [@username](https://github.com/username)
+* **Dataset:** [PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
+* **Reference Guide:** [Plant Disease Detection Using CNN with PyTorch](https://medium.com/@manthan89-py/plant-disease-detection-using-convolutional-neural-networks-with-pytorch-24f79471f008) by `@manthan89-py`
+
+---
 
 ## 📝 Conclusion
 
